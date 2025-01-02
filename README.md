@@ -2,7 +2,7 @@
 
 CloudFlow is an intelligent project management platform designed to streamline workflows and enhance team collaboration. This landing page showcases the key features of CloudFlow, including a hero section, features, testimonials, and pricing information.
 
-![CloudFlow Landing Page](https://example.com/path-to-your-image.jpg) <!-- Replace this URL with the actual URL of your image -->
+![CloudFlow Landing Page](Landing-page\s.png) <!-- Replace this URL with the actual URL of your image -->
 
 ## Features
 
